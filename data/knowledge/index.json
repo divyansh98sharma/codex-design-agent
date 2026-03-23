@@ -1,0 +1,14 @@
+{
+  "version": "0.1.0",
+  "generatedAt": "2026-03-23T03:29:33.053Z",
+  "chunks": [
+    {
+      "id": "intro",
+      "title": "Design System Overview",
+      "body": "This is a placeholder. Run npm run sync:figma once you configure FIGMA_PAT and FIGMA_FILE_KEYS to ingest real data.",
+      "tags": [
+        "placeholder"
+      ]
+    }
+  ]
+}
